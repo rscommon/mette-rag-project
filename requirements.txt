@@ -1,0 +1,7 @@
+pandas
+chromadb
+sentence-transformers
+transformers
+torch
+sentencepiece
+streamlit
