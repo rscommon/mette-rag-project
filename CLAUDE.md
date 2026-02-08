@@ -15,4 +15,4 @@ This is a RAG (Retrieval-Augmented Generation) project built around Facebook pos
 
 ## Language
 
-The dataset is in Danish. When building prompts, retrieval queries, or UI text that interacts with this data, default to Danish unless otherwise specified. So this is a change. 
+The dataset is in Danish. When building prompts, retrieval queries, or UI text that interacts with this data, default to Danish unless otherwise specified. So this is a change.
